@@ -1,2 +1,4 @@
 # hello-world
-NEW REPOSITORY_New Github 
+
+Testing Github for the first time! 
+To be used for projects (in school, and solo) 
